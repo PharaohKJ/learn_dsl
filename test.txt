@@ -1,0 +1,5 @@
+event "Beer Party" do
+	on "2013/08/24"
+	starts "13:00"
+	ends "17:00"
+end
